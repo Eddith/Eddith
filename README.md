@@ -24,5 +24,5 @@
 
 <p><img align="left" bg_color=0000 src="https://github-readme-stats.vercel.app/api/top-langs?username=eddith&show_icons=true&theme=dark&locale=en&layout=compact" alt="eddith" /></p>
 
-<p>&nbsp;<img align="right" bg_color=0000 src="https://github-readme-stats.vercel.app/api?username=eddith&show_icons=true&theme=dark&locale=en" alt="eddith" /></p>
+<p>&nbsp;<img align="center" bg_color=0000 src="https://github-readme-stats.vercel.app/api?username=eddith&show_icons=true&theme=dark&locale=en" alt="eddith" /></p>
 
