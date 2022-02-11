@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Koçman</h1>
 <h3 align="center">A passionate Javascript Developer from Mars</h3>
 
-- 🔭 I’m currently working on [Steampunk Miners](https://steampunkminer.io)
+- 🔭 I’m currently working on [Steampunk Miners](http://steampunk-miners.herokuapp.com/)
 
 - 🌱 I’m currently learning **React, React Native, Nodejs, Web3, Solidity, Blockhain**
 
