@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Steampunk Miners](http://steampunk-miners.herokuapp.com/)
 
-- 🌱 I’m currently learning **React, React Native, Nodejs, Web3, Solidity, Blockhain**
+- 🌱 I’m currently learning **React, React Native, Next, Redux, Redux-Saga, Typescript, Nodejs, Web3, Solidity, Blockhain**
 
 - 👯 I’m looking to collaborate on [Stalk.gg](https://stalk.gg/)
 
-- 💬 Ask me about **Rect, React Native, Javascript, Nodejs**
+- 💬 Ask me about **Rect, React Native, Redux, Redux-Saga Typescript, Javascript, Nodejs**
 
 - 📫 How to reach me **alikocman44@gmail.com**
 
