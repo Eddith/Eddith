@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Koçman</h1>
 <h3 align="center">A passionate Javascript Developer from Mars</h3>
 
-- 🔭 I’m currently working on [Steampunk Miners](http://steampunk-miners.herokuapp.com/)
+- 🔭 I’m currently working on [Technox](https://technox.com.tr/)
 
-- 🌱 I’m currently learning **React, React Native, Next, Redux, Redux-Saga, Typescript, Nodejs, Web3, Solidity, Blockhain**
+- 🌱 I’m currently learning **React, Redux, Javascript, Typescript, Nodejs, Docker, Jenkins, Sonarqube**
 
-- 👯 I’m looking to collaborate on [Stalk.gg](https://stalk.gg/)
-
-- 💬 Ask me about **Rect, React Native, Redux, Redux-Saga Typescript, Javascript, Nodejs**
+- 💬 Ask me about **Rect, Redux, Typescript, Javascript, Nodejs**
 
 - 📫 How to reach me **alikocman44@gmail.com**
 
