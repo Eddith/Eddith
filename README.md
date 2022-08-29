@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Koçman</h1>
-<h3 align="center">A passionate Javascript Developer from Mars</h3>
+<h3 align="center">A passionate Software Developer from Mars</h3>
 
-- 🔭 I’m currently working on [Technox](https://technox.com.tr/)
+- 🔭 I’m currently working on [Technox-Cloud](https://technox.com.tr/)
 
 - 🌱 I’m currently learning **React, Redux, Javascript, Typescript, Nodejs, Docker, Jenkins, Sonarqube**
 
